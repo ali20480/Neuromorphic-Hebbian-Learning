@@ -17,3 +17,17 @@ The code outputs the evolution of the weight vector over time. The weights have 
 
 If you use this work, please cite:
 
+**Ali Safa. (2020). Hebbian Learning with Spiking Neuron. http://doi.org/10.5281/zenodo.3951585.**
+
+```
+@misc{ali_safa_2020_3951560,
+  author       = {Ali Safa},
+  title        = {{Hebbian Learning with Spiking Neuron}},
+  month        = Aug,
+  year         = 2020,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.3974508},
+  howpublished = {\url{https://doi.org/10.5281/zenodo.3974508}}
+}
+```
+
